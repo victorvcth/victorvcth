@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Victor Hugo Barros
 
-- 🔭 Hoje trabalho como Vendedor de Peças Automotivo
+- 🔭 Hoje trabalho como Vendedor de Peças
 - 🌱 Estudando Front End / React / NodeJS
 - 📫 Contante-me no email: victorbarros.dev@hotmail.com
 
