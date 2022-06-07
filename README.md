@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Victor Hugo Barros
 
 - 🔭 Hoje trabalho como Vendedor de Peças
-- 🌱 Estudando Front End / React / NodeJS
+- 🌱 Estudando Front End | HTML | CSS3 | JS | ReactJS | NodeJS |
 - 📫 Contante-me no email: victorbarros.dev@hotmail.com
 
 <div align="center">
