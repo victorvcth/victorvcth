@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como Vendedor de Peças
 - 🌱 Estudando Front End | HTML | CSS3 | JS | ReactJS | NodeJS |
-- 📫 Contante-me no email: victorbarros.dev@hotmail.com
+- 📫 Contate-me no email: victorbarros.dev@hotmail.com
 
 <div align="center">
   <a href="https://github.com/victorvcth">
